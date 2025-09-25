@@ -1,2 +1,2 @@
-input ("enter your name")
-print("welcome")
+name=input ("enter your name")
+print(f"hello,{name}!welcome!")
